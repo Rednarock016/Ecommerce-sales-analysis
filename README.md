@@ -272,17 +272,6 @@ After loading data into MySQL (Step 4), run the queries in [`sql/analysis_querie
 
 ---
 
-## Future Improvements
-
-- [ ] Build an interactive **Power BI / Tableau dashboard**
-- [ ] Add **time-series forecasting** (Prophet / ARIMA) for revenue prediction
-- [ ] Implement **customer cohort analysis** and churn prediction
-- [ ] Perform **market basket analysis** (association rules) for product recommendations
-- [ ] Automate the pipeline with **Airflow** or a scheduled script
-- [ ] Add unit tests and data validation with **Great Expectations**
-
----
-
 ## License
 
 This project is open-source and available for educational and portfolio purposes.
