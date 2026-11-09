@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  2 16:10:54 2026
-
-@author: VICTUS
-"""
-
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
