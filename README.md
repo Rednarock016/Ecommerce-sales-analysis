@@ -126,7 +126,7 @@ ecommerce-sales-analysis/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Rednarock016/ecommerce-sales-analysis.git
+   git clone https://github.com/Rednarock016/Ecommerce-sales-analysis.git
    cd ecommerce-sales-analysis
    ```
 
