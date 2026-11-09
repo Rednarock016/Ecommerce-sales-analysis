@@ -13,3 +13,6 @@ data/processed/*
 
 output/*
 !output/.gitkeep
+!output/monthly_revenue.png
+!output/top_countries.png
+!output/top_products.png
