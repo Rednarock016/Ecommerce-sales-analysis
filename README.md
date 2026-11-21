@@ -11,7 +11,7 @@ An end-to-end data analytics and business intelligence project exploring **1M+ t
 
 ---
 
-## 📊 Executive Dashboard Overview
+## Executive Dashboard Overview
 
 <p align="center">
   <img src="assets/dashboard.png" alt="E-Commerce Executive Sales Analytics Dashboard" width="100%">
@@ -41,7 +41,7 @@ The executive dashboard consolidates multi-dimensional data into five actionable
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 | Aspect | Detail |
 |---|---|
@@ -52,7 +52,7 @@ The executive dashboard consolidates multi-dimensional data into five actionable
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 ### 1. Executive KPIs
 
@@ -68,27 +68,27 @@ The executive dashboard consolidates multi-dimensional data into five actionable
 
 ### 2. Deep-Dive Dashboard Findings
 
-- **🗓️ Strong Q4 Seasonality:**
+- ** Strong Q4 Seasonality:**
   - Revenue remains steady from January to August (~£1.2M–£1.5M/month) before experiencing exponential growth in September and October.
   - **November is the peak month** approaching **£2.9M–£3.0M**, driven by early holiday shopping and wholesale pre-orders.
-- **🌍 Geographic Concentration:**
+- ** Geographic Concentration:**
   - The **United Kingdom** represents **over 85% of total revenue (~£17.8M+)**.
   - Top international markets are led by **EIRE (~£664K)**, **Netherlands (~£554K)**, **Germany**, and **France**, demonstrating clear European cross-border traction.
-- **📦 High-Velocity Products:**
+- ** High-Velocity Products:**
   - The highest revenue-producing merchandise is dominated by giftware and home decor:
     - `REGENCY CAKESTAND 3 TIER`
     - `WHITE HANGING HEART T-LIGHT HOLDER`
     - `PAPER CRAFT, LITTLE BIRDIE`
     - `JUMBO BAG RED RETROSPOT` & `PARTY BUNTING`
-- **👥 Customer Retention (The 80/20 Rule):**
+- ** Customer Retention (The 80/20 Rule):**
   - **Repeat Buyers (72.39% / 4,255 customers)** drive **over 82% of all company revenue (£17.1M)**.
   - **One-time Buyers (27.61% / 1,623 customers)** contribute only £566K, underscoring customer retention and loyalty programs as the single biggest growth lever.
-- **💎 VIP RFM Profiles:**
+- ** VIP RFM Profiles:**
   - Top customer accounts (such as ID `14911` and `14156`) exhibit ultra-high frequency (150–400 orders) and monetary spend exceeding **£290,000+**, with recent transactions (Recency ≤ 2 days).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Role in Project |
 |---|---|
@@ -102,7 +102,7 @@ The executive dashboard consolidates multi-dimensional data into five actionable
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ecommerce-sales-analysis/
@@ -149,7 +149,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - Python 3.10 or higher
@@ -195,7 +195,7 @@ ecommerce-sales-analysis/
 
 ---
 
-## 🔄 Pipeline Walkthrough
+## Pipeline Walkthrough
 
 Run the pipeline steps sequentially from the project root:
 
@@ -234,7 +234,7 @@ python src/load_mysql.py
 
 ---
 
-## 🗄️ SQL Business Analysis
+## SQL Business Analysis
 
 After loading the cleaned dataset into MySQL, execute the ready-made queries in [`sql/analysis_queries.sql`](sql/analysis_queries.sql):
 
@@ -251,7 +251,7 @@ After loading the cleaned dataset into MySQL, execute the ready-made queries in 
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add an automated **CI/CD data validation** pipeline with Great Expectations.
 - [ ] Implement **time-series revenue forecasting** using Prophet / ARIMA.
@@ -260,12 +260,12 @@ After loading the cleaned dataset into MySQL, execute the ready-made queries in 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — open-source for educational and portfolio purposes.
 
 ---
 
 <p align="center">
-  <b>⭐ If you find this project informative or helpful, please give it a star! ⭐</b>
+  <b> If you find this project informative or helpful, please give it a star! </b>
 </p>
